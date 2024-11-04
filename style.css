@@ -1,0 +1,21 @@
+.titles{
+    color: black;
+    background-color:goldenrod;
+    font-size: 32px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.subtitles{
+    color: black;
+    background-color:bisque ;
+    font-size: 28px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+.list{
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: lighter;
+    background-color: greenyellow;
+}
+
