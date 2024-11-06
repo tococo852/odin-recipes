@@ -1,13 +1,9 @@
 .titles{
-    color: black;
-    background-color:goldenrod;
     font-size: 32px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
 }
 .subtitles{
-    color: black;
-    background-color:bisque ;
     font-size: 28px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: bold;
@@ -16,6 +12,32 @@
     font-size: 18px;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: lighter;
-    background-color: greenyellow;
 }
 
+.title-box{
+    background: rgb(169, 226, 122);
+    border: 5px solid #000;
+    border-color: rgb(128, 230, 187);
+    text-align: center;
+}
+
+.list-flex{
+    display: flex;
+    text-align: center;
+
+
+    li{
+        background: rgb(46, 230, 243);
+        border: 2px solid rgb(119, 241, 107);
+        margin: 10px;
+        justify-content: center;
+    }
+}
+
+
+.title-box-big{
+    background: rgb(65, 171, 212);
+    border: 5px solid #000;
+    border-color: rgb(168, 55, 179);
+    text-align: center;
+}
